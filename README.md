@@ -9,7 +9,7 @@ Worked as a frontend developer at Cati Jr., building real-world applications usi
 
 Certified in Linux and system administration by RedHat (RH124, RH104). Passionate about creating useful systems, solving algorithmic problems, and exploring AI applications in robotics and software.
 
-Always curious and eager to learn more — especially in the areas of software engineering, automation, and applied AI.
+Always curious and eager to learn more — especially in the areas of software engineering and embedded systems.
 
 ---
 
