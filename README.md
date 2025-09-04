@@ -11,8 +11,6 @@ Certified in Linux and system administration by RedHat (RH124, RH104). Passionat
 
 Always curious and eager to learn more — especially in the areas of software engineering and embedded systems.
 
----
-
 ### 🛠 Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
