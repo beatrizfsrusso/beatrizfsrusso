@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my github profile!
+Welcome to my GitHub profile!
 
 ## About me
 
